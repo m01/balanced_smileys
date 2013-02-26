@@ -2,3 +2,9 @@
 *~
 .DS_Store
 *.swp
+*.tab.c
+*.tab.h
+lex.h
+lex.yy.c
+solver
+solver.dSYM/
