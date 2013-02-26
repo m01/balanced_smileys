@@ -6,7 +6,7 @@
 
 #define YYMAXDEPTH 20000
 
-#define YYDEBUG 1
+#define YYDEBUG 0 //set to 1 to enable debugs.
 #define YYSTYPE int
 
 extern int print_errors;
